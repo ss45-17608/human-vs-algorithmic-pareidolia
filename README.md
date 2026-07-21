@@ -22,7 +22,6 @@ Our findings reveal that while standard classifiers achieve high accuracy on tru
 ## 📂 Repository Contents
 
 * `pareidolia_study.ipynb`: The primary Jupyter Notebook containing data preprocessing, model implementations (kNN, Softmax HOG, ReLU Neural Net), evaluation metrics, and human comparison plots[cite: 2].
-* `CCS Final Paper (2).pdf`: Full written research paper detailing our theoretical background, behavioral experiment design, and cognitive science implications[cite: 2].
 
 ---
 

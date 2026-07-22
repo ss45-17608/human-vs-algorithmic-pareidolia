@@ -1,0 +1,12 @@
+# Jupyter & Python Cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local Data files (if keeping local copy private)
+data/raw/
+*.npz
+*.npy
+
+# System files
+.DS_Store
